@@ -1,0 +1,1 @@
+points=("SELECT * FROM hospital","SELECT * FROM Appointments");
